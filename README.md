@@ -5,9 +5,10 @@
 ## 🚀 Установка и запуск
 
 1. **Клонируйте репозиторий**
-   ```bash
-   git clone https://github.com/ваш_логин/имя_репозитория.git
-   cd имя_репозитория
+  ```bash
+git clone https://github.com/Mikhail80pamv/flask_notes.git
+cd flask_notes
+```
 
    
 2.Установите зависимости
